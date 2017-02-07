@@ -1,0 +1,2 @@
+# kajanos
+Personal Gentoo Overlay
